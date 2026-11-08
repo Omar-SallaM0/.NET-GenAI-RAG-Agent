@@ -199,19 +199,6 @@ The `Search`, `Embedding`, and `Similarity` controllers expose the underlying bu
 - Not a full "agent": there are no tools, planning, or memory, so it is a RAG chatbot.
 ---
  
-## Roadmap
- 
-- [ ] Similarity threshold with a "not enough information" response
-- [ ] Input validation and global exception handling
-- [ ] Move model name, Top-K, and chunk settings to configuration
-- [ ] Batch embeddings during ingestion
-- [ ] Persistent vector store (pgvector, Qdrant, Azure AI Search)
-- [ ] Authentication (API key or JWT)
-- [ ] PDF / Word file upload
-- [ ] Streaming responses and conversation history
-- [ ] Remove template leftovers (`/weatherforecast`, empty `Class1.cs` files)
----
- 
 ## Tech Stack
  
 - C# / ASP.NET Core Web API
