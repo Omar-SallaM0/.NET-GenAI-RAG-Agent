@@ -72,8 +72,8 @@ POST /api/chat { "message": "..." }
 ### Setup
  
 ```bash
-git clone https://github.com/Rohit-1480/DotNet-GenAI-RAG-Agent.git
-cd DotNet-GenAI-RAG-Agent
+git clone https:github.com/Omar-SallaM0/.NET-GenAI-RAG-Agent.git
+cd .NET-GenAI-RAG-Agent
 ```
  
 Store your API key securely (do **not** commit it):
